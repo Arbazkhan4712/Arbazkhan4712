@@ -64,14 +64,16 @@
 
 :zap: GitHub Stats
 
-  <img align="left" alt="Arbazkhan4712
- GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Arbazkhan4712
-&show_icons=true&hide_border=true" />
+![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Arbazkhan4712&show_icons=true&theme=radical)
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazkhan4712&layout=compact&theme=radical)](https://github.com/Arbazkhan4712/)
 
+---
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Arbazkhan4712&repo=Python-Quarantine-Projects&theme=radical)
 
 [website]: https://www.arbaazkhan.ml/index.html
-[course]: http://vsCodeHero.com
+[course]: https://www.udemy.com/course/learn-python-with-20-real-world-projects/?referralCode=E16F86C039D8C509AF0E
 [twitter]: https://twitter.com/Arbazkh87773546
 [youtube]: https://www.youtube.com/channel/UCGYWLvjmBouSwjJIzeNDuzw
 [instagram]: https://www.instagram.com/getsetcode47/
