@@ -50,7 +50,11 @@
 ### 📺 Latest YouTube Videos
 ![viwes](https://img.shields.io/youtube/views/af9BF0Nu9ZQ?style=social)
 <!-- YOUTUBE:START -->
-
+- [Learn Django Web Development With 5 Real World Projects](https://www.youtube.com/watch?v=liwObGGYxOA)
+- [Learn Python With 20+ Real World Projects [In 2020] || Udemy Course](https://www.youtube.com/watch?v=EPwiFC3Ea5s)
+- [How to make Iron Man JARVIS  |  Iron Man Jarvis AI Desktop Voice Assistant [FULL COURSE]](https://www.youtube.com/watch?v=Sn-p50z5yV0)
+- [Learn Home Automation Using J.A.R.V.I.S AI With Arduino || Udemy Course [Full Course]](https://www.youtube.com/watch?v=98qcyQFJ_O0)
+- [Learn To Create AI Assistant (JARVIS) With Python || Udemy Course [Full Course]](https://www.youtube.com/watch?v=af9BF0Nu9ZQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/GetSetCoding47)
