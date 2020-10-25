@@ -1,4 +1,4 @@
-### Hi there, I'm Arbaz Khan- aka [GetSetCode][website] 👋
+### Hi there, I'm Arbaz Khan- aka [GetSetCode][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=Arbaazkhan.Ml&style=for-the-badge&url=https://www.arbaazkhan.ml/index.html)](https://www.arbaazkhan.ml/index.html)
 
