@@ -6,6 +6,9 @@
 
 ![github](https://img.shields.io/github/followers/Arbazkhan4712?style=social)
 
+  <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
 ## I'm a  Python Developer,Computer Science Engineer,Artificial Intelligence Enthusiast and Teacher!!
 
 -  I just launched my new course: [Learn Python With 20+ Real World Projects ][course]!
