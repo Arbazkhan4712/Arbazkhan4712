@@ -69,12 +69,12 @@
 
 :zap: GitHub Stats
 
-![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Arbazkhan4712&show_icons=true&theme=radical)
+![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Arbazkhan4712&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazkhan4712&layout=compact&theme=radical)](https://github.com/Arbazkhan4712/)
+
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazkhan4712&layout=compact&theme=radical)](https://github.com/Arbazkhan4712/)
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
 
----
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Arbazkhan4712&repo=Python-Quarantine-Projects&theme=radical)
 
 [website]: https://www.arbaazkhan.ml/index.html
