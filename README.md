@@ -2,7 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=Arbaazkhan.Ml&style=for-the-badge&url=https://www.arbaazkhan.ml/index.html)](https://www.arbaazkhan.ml/index.html)
 
-![gitb](https://img.shields.io/github/followers/Arbazkhan4712?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![github](https://img.shields.io/github/followers/Arbazkhan4712?style=social)
 
 ## I'm a  Python Developer,Computer Science Engineer,Artificial Intelligence Enthusiast and Teacher!!
 
