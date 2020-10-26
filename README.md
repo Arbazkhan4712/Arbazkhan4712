@@ -77,7 +77,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" /> 
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" /> 
 
 [website]: https://www.arbaazkhan.ml/index.html
 [course]: https://www.udemy.com/course/learn-python-with-20-real-world-projects/?referralCode=E16F86C039D8C509AF0E
