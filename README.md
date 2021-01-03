@@ -55,11 +55,11 @@
 ### 📺 Latest YouTube Videos
 ![viwes](https://img.shields.io/youtube/views/af9BF0Nu9ZQ?style=social)
 <!-- YOUTUBE:START -->
+- [Screenshot App Using Python Project 1 - 30 Days of Python - Day3](https://www.youtube.com/watch?v=rkBEwfrpAzk)
 - [Python Basics In 30 Minutes - 30 Days of Python - Day2](https://www.youtube.com/watch?v=OQSB2lYCiBE)
 - [30 Days of Python - Day1 - Python Setup Development Environment Setup](https://www.youtube.com/watch?v=3UfoYE-GDaM)
 - [Announcement - Channel Updates (2021)](https://www.youtube.com/watch?v=Cz4Gg6pztJ0)
 - [Learn Django Web Development With 5 Real World Projects](https://www.youtube.com/watch?v=liwObGGYxOA)
-- [Learn Python With 20+ Real World Projects [In 2020] || Udemy Course](https://www.youtube.com/watch?v=EPwiFC3Ea5s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/GetSetCoding47)
