@@ -55,11 +55,11 @@
 ### 📺 Latest YouTube Videos
 ![viwes](https://img.shields.io/youtube/views/af9BF0Nu9ZQ?style=social)
 <!-- YOUTUBE:START -->
+- [Password Generator App Using Python Project 3 - 30 Days of Python - Day4](https://www.youtube.com/watch?v=D28dlD5RWuE)
 - [Screenshot GUI App Using Python Project 2 - 30 Days of Python - Day4](https://www.youtube.com/watch?v=cUFGfCcefOU)
 - [Screenshot App Using Python Project 1 - 30 Days of Python - Day3](https://www.youtube.com/watch?v=rkBEwfrpAzk)
 - [Python Basics In 30 Minutes - 30 Days of Python - Day2](https://www.youtube.com/watch?v=OQSB2lYCiBE)
 - [30 Days of Python - Day1 - Python Setup Development Environment Setup](https://www.youtube.com/watch?v=3UfoYE-GDaM)
-- [Announcement - Channel Updates (2021)](https://www.youtube.com/watch?v=Cz4Gg6pztJ0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/GetSetCoding47)
