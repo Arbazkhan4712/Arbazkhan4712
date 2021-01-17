@@ -14,7 +14,7 @@
 -  I just launched my new course: [Learn Python With 20+ Real World Projects ][course]!
 - 🌱 I’m currently Working on Machine Learning based projects
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to automate my tasks with programming
 
 ### Connect with me:
