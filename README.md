@@ -56,7 +56,7 @@
 ![viwes](https://img.shields.io/youtube/views/af9BF0Nu9ZQ?style=social)
 <!-- YOUTUBE:START -->
 - [Email Sender App Using Python Project 4 - 30 Days of Python - Day6](https://www.youtube.com/watch?v=UVzX0B0duB0)
-- [Password Generator App Using Python Project 3 - 30 Days of Python - Day4](https://www.youtube.com/watch?v=D28dlD5RWuE)
+- [Password Generator App Using Python Project 3 - 30 Days of Python - Day5](https://www.youtube.com/watch?v=D28dlD5RWuE)
 - [Screenshot GUI App Using Python Project 2 - 30 Days of Python - Day4](https://www.youtube.com/watch?v=cUFGfCcefOU)
 - [Screenshot App Using Python Project 1 - 30 Days of Python - Day3](https://www.youtube.com/watch?v=rkBEwfrpAzk)
 - [Python Basics In 30 Minutes - 30 Days of Python - Day2](https://www.youtube.com/watch?v=OQSB2lYCiBE)
