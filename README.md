@@ -55,11 +55,11 @@
 ### 📺 Latest YouTube Videos
 ![viwes](https://img.shields.io/youtube/views/af9BF0Nu9ZQ?style=social)
 <!-- YOUTUBE:START -->
+- [Learn To Create Advance AI Assistant (JARVIS 2.0) With Python || Udemy Course [Course Demo]](https://www.youtube.com/watch?v=d2bW-SEhzxQ)
 - [JARVIS 2 0 Course Trailer || Learn To Create J.A.R.V.I.S 2.0 Advance Virtual Desktop Assistant](https://www.youtube.com/watch?v=KEHvQbrr_jg)
 - [J.A.R.V.I.S 2.0 - PC boot startup](https://www.youtube.com/watch?v=xk91C6O8S78)
 - [Jarvis 2.0 Course Teaser 2 || Learn To Create J.A.R.V.I.S 2.0 Advance Virtual Desktop Assistant](https://www.youtube.com/watch?v=zzU6zHnfQTY)
 - [Jarvis 2.0 Course Teaser || Learn To Create J.A.R.V.I.S 2.0 Advance Virtual Desktop Assistant](https://www.youtube.com/watch?v=jYtkhvX-J2A)
-- [Email Sender App Using Python Project 4 - 30 Days of Python - Day6](https://www.youtube.com/watch?v=UVzX0B0duB0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/GetSetCoding47)
