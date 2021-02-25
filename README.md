@@ -11,7 +11,7 @@
 
 ## I'm a  Python Developer,Computer Science Engineer,Artificial Intelligence Enthusiast and Teacher!!
 
--  I just launched my new course: [Learn Python With 20+ Real World Projects ][course]!
+-  I just launched my new course: [Learn To Create Advance AI Assistant (JARVIS 2.0) With Python][course]!
 - 🌱 I’m currently Working on Machine Learning based projects
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -80,7 +80,7 @@
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" /> 
 
 [website]: https://www.arbaazkhan.ml/index.html
-[course]: https://www.udemy.com/course/learn-python-with-20-real-world-projects/?referralCode=E16F86C039D8C509AF0E
+[course]: https://www.udemy.com/course/learn-to-create-advance-ai-assistant-jarvis-20with-python/?referralCode=6DC53EA98F2E77ACCA45
 [twitter]: https://twitter.com/Arbazkh87773546
 [youtube]: https://www.youtube.com/channel/UCGYWLvjmBouSwjJIzeNDuzw
 [instagram]: https://www.instagram.com/getsetcode47/
