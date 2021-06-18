@@ -55,11 +55,11 @@
 ### 📺 Latest YouTube Videos
 ![viwes](https://img.shields.io/youtube/views/af9BF0Nu9ZQ?style=social)
 <!-- YOUTUBE:START -->
+- [How To Install Windows 11](https://www.youtube.com/watch?v=BQ9VtHpjwrY)
 - [Jarvis AI Assistant In Real world Visit Channel For Full Course #Shorts](https://www.youtube.com/watch?v=-s0DOkmB01E)
 - [Jarvis AI Assistant Controlling Drone Visit Channel For Full Course #Shorts](https://www.youtube.com/watch?v=UBCAqlDMsEg)
 - [Jarvis AI Assistant In Real world Visit Channel For Full Course #Shorts](https://www.youtube.com/watch?v=hFMQqR-_mRI)
 - [Learn to Create JARVIS AI #Shorts](https://www.youtube.com/watch?v=G5wh2hPXLrc)
-- [Learn To Create Advance AI Assistant (JARVIS 2.0) With Python || Udemy Course [Course Demo]](https://www.youtube.com/watch?v=d2bW-SEhzxQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/GetSetCoding47)
